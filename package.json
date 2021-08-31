@@ -1,0 +1,17 @@
+{
+  "name": "yandex_pr_crimson_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/spacehaz/yandex_pr_crimson_bot.git",
+  "author": "spacehaz <spacehaz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-fetch": "2.0.0",
+    "nodemon": "^2.0.12",
+    "telegraf": "^4.4.1"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+  }
+}
